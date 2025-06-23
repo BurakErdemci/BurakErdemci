@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BurakErdemci
 - 👀 I’m interested in game design and web desing
-- 🌱 I’m currently learning C# , Asp.Net Core
-- 💞️ I’m looking to collaborate on Rockstargames xd
+- 🌱 I’m currently learning C# , Asp.Net Core and JavaScript
 - 📫 How to reach me: linkedin account:https://www.linkedin.com/in/burak-erdemci-a3994833b/
 
 
