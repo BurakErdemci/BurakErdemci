@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @BurakErdemci
-- 👀 I’m interested in game design and web desing
-- 🌱 I’m currently learning C# , Asp.Net Core and JavaScript
-- 📫 How to reach me: linkedin account:https://www.linkedin.com/in/burak-erdemci-a3994833b/
+# 👋 Hi, I'm Burak Erdemci
+
+🎮 I'm passionate about game development and web design.  
+💻 Currently focused on **C#**, **ASP.NET Core**, and **JavaScript**.  
+📚 Always learning and building fun, practical projects.  
+🌍 Based in Istanbul — open to collaborations!
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/burak-erdemci-a3994833b/)
 
 
 
