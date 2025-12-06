@@ -19,7 +19,7 @@
 🔐 **Siber güvenlik** ve **network** alanlarında kendimi geliştiriyorum  
 📍 İstanbul, Türkiye  
 🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Python** öğreniyorum  
-🎯 2025 Hedefim: 10+ açık kaynak projeye katkıda bulunmak
+🎯 2026 Hedefim: Kendi oyunumu çıkarabilmek.
 
 ---
 
