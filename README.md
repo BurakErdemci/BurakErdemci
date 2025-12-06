@@ -16,10 +16,11 @@
 
 🎮 **Oyun geliştirme** ve **web tasarım** tutkunu bir yazılım geliştirici  
 💻 **Full-stack** teknolojilerle modern ve ölçeklenebilir uygulamalar geliştiriyorum  
+🕹️ **Unity** ve **Unreal Engine** ile oyun projelerinde çalışıyorum  
 🔐 **Siber güvenlik** ve **network** alanlarında kendimi geliştiriyorum  
 📍 İstanbul, Türkiye  
-🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Python** öğreniyorum  
-🎯 2026 Hedefim: Kendi oyunumu çıkarabilmek.
+🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Python** öğreniyorum  
+🎯 2026 Hedefim: İlk indie oyunumu yayınlamak
 
 ---
 
@@ -45,6 +46,12 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_for_Unity-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,16 +91,11 @@
 - 🚪 Port tarama ve güvenlik analizi
 - 🛡️ Etik hacking ve penetrasyon testi için
 
----
 
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurakErdemci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakErdemci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakErdemci&theme=tokyonight&hide_border=true)
   
 </div>
@@ -114,17 +116,21 @@
 
 ```javascript
 const burak = {
-    currentFocus: ["Next.js 16 Server Actions", "ASP.NET Core Web API", "Python Automation"],
-    learning: ["Docker", "Kubernetes", "Microservices", "Redis"],
-    askMeAbout: ["Web Development", "Game Development", "Cyber Security"],
+    currentFocus: [
+        "Next.js 16 Server Actions", 
+        "ASP.NET Core Web API", 
+        "Unity Game Development",
+        "Unreal Engine Blueprints"
+    ],
+    learning: ["Docker", "Kubernetes", "Game AI", "Multiplayer Systems", "Redis"],
+    askMeAbout: ["Web Development", "Game Development", "Cyber Security", "Unity/Unreal"],
     technologies: {
         frontEnd: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
         backEnd: ["ASP.NET Core", "Node.js", "Python"],
+        gameEngines: ["Unity", "Unreal Engine"],
         databases: ["MongoDB", "SQL Server", "SQLite"],
-        tools: ["Git", "VS Code", "Vercel", "GitHub Actions"]
+        tools: ["Git", "VS Code", "Visual Studio", "Blender", "Vercel", "GitHub Actions"]
     },
-    currentProject: "Full-Stack E-Commerce Platform",
-    funFact: "Kod yazarken en sevdiğim içecek: Türk kahvesi ☕"
 };
 ```
 
@@ -132,12 +138,17 @@ const burak = {
 
 ## 🏆 Başarılarım & Hedeflerim
 
-✅ 3 production-ready full-stack proje geliştirdim  
-✅ Modern backend mimarilerini (Repository Pattern, UoW) uyguladım  
-✅ Cloud deployment (Vercel) deneyimi kazandım  
-🎯 Open source projelere katkıda bulunmayı planlıyorum  
-🎯 Mobil uygulama geliştirme (React Native) öğreneceğim  
-🎯 AWS/Azure sertifikası almayı hedefliyorum  
+### ✅ Tamamlananlar
+- 3 production-ready full-stack proje geliştirdim  
+- Modern backend mimarilerini (Repository Pattern, UoW) uyguladım  
+- Cloud deployment (Vercel) deneyimi kazandım  
+- Unity ve Unreal Engine ile oyun geliştirmeye başladım
+
+### 🎯 Hedefler
+- İlk indie oyunumu Steam'de yayınlamak (2026)
+- Mobil uygulama geliştirme (React Native) öğrenmek  
+- AWS/Azure sertifikası almak  
+- Unreal'da FPS oyun bir oyun yapmak
 
 ---
 
@@ -151,6 +162,9 @@ const burak = {
 📍 **Konum:** İstanbul, Türkiye
 
 </div>
+
+---
+
 
 ---
 
