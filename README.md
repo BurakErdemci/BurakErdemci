@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Cyber+Security+Learner;Always+Learning+New+Things!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;AI+Tools+Builder;Always+Learning+New+Things!)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-erdemci-a3994833b/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erdemciburakemre@gmail.com)
@@ -14,12 +14,11 @@
 
 ## 🚀 Hakkımda
 
-🎮 **Oyun geliştirme** ve **web tasarım** tutkunu bir yazılım geliştirici  
+🎮 **Oyun geliştirme** ve **web geliştirme** tutkunu bir yazılım geliştirici  
 💻 **Full-stack** teknolojilerle modern ve ölçeklenebilir uygulamalar geliştiriyorum  
 🕹️ **Unity** ve **Unreal Engine** ile oyun projelerinde çalışıyorum  
-🔐 **Siber güvenlik** ve **network** alanlarında kendimi geliştiriyorum  
 📍 İstanbul, Türkiye  
-🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Python** öğreniyorum  
+🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Unreal Engine 5** , **Python** öğreniyorum  
 🎯 2026 Hedefim: İlk indie oyunumu yayınlamak
 
 ---
@@ -52,13 +51,12 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23_for_Unity-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 
 ---
 
@@ -73,6 +71,34 @@
 - 📊 Admin dashboard ile gelişmiş yönetim
 - 🚀 Production'da canlı: [Demo](https://ristorante-stellato-puum.vercel.app)
 
+---
+
+### 🎮 [Workday Loop](https://github.com/BurakErdemci/Workday-Loop)
+**2D Psikolojik Gerilim Oyunu**  
+`Unity 6` `C#` `ShaderLab` `DOTween`
+
+> *"Bu bir problem mi, yoksa sen buna alıştın mı?"*
+
+- 🟣 Anonim "sıradan" karakter ile ofis döngüsü deneyimi
+- 🤖 **Directive Sistemi** — Sabotaj mı? Dürüstlük mü? Seçim senin
+- 🔀 **İki farklı final** — Salvation Ending & Loop Ending
+- 🧠 Gaslighting, layout swapping ve sensory deprivation mekanikleri
+- 🎬 Mad Men + Nier: Automata + The Stanley Parable esinli atmosfer
+
+---
+
+### 🏗️ [Unity Architect AI](https://github.com/BurakErdemci/Unity-Architect-AI)
+**Yapay Zeka Destekli Unity C# Kod Analiz Platformu**  
+`Python` `FastAPI` `Electron` `Next.js 14` `React` `SQLite`
+
+- 🔍 **3 aşamalı analiz pipeline** — Statik analiz → Derin AI analizi → Otomatik kod düzeltme
+- 📊 **Ağırlıklı puanlama sistemi** — Performans, Fizik, Mimari, Best Practice
+- 🤖 **5 farklı AI sağlayıcı** — Groq, Ollama, Gemini, OpenAI, DeepSeek
+- 🖥️ **Cursor IDE tarzı arayüz** — Dosya Gezgini | Kod Editörü | AI Chat
+- 💾 Workspace yönetimi, sohbet geçmişi ve kullanıcı sistemi
+
+---
+
 ### 🎮 [OyunBlog](https://github.com/BurakErdemci/OyunBlog)
 **Katmanlı Mimari ile Oyun Forum Platformu**  
 `ASP.NET Core` `C#` `Entity Framework` `SQLite` `Identity`
@@ -82,15 +108,7 @@
 - 🔍 Forum CRUD, arama ve pagination
 - 📱 API entegrasyonu ile haber çekme
 
-### 🔍 [ReconX](https://github.com/BurakErdemci/ReconX)
-**Domain Reconnaissance Tool**  
-`Python` `Kali Linux` `nmap` `whois`
-
-- 🌐 IP/DNS bilgi toplama
-- 🔎 Subdomain brute force
-- 🚪 Port tarama ve güvenlik analizi
-- 🛡️ Etik hacking ve penetrasyon testi için
-
+---
 
 ## 📊 GitHub İstatistiklerim
 
@@ -123,7 +141,7 @@ const burak = {
         "Unreal Engine Blueprints"
     ],
     learning: ["Docker", "Kubernetes", "Game AI", "Multiplayer Systems", "Redis"],
-    askMeAbout: ["Web Development", "Game Development", "Cyber Security", "Unity/Unreal"],
+    askMeAbout: ["Web Development", "Game Development", "AI Tools", "Unity/Unreal"],
     technologies: {
         frontEnd: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
         backEnd: ["ASP.NET Core", "Node.js", "Python"],
@@ -139,16 +157,17 @@ const burak = {
 ## 🏆 Başarılarım & Hedeflerim
 
 ### ✅ Tamamlananlar
-- 3 production-ready full-stack proje geliştirdim  
+- Production-ready full-stack projeler geliştirdim  
 - Modern backend mimarilerini (Repository Pattern, UoW) uyguladım  
 - Cloud deployment (Vercel) deneyimi kazandım  
-- Unity ve Unreal Engine ile oyun geliştirmeye başladım
+- Unity ile ekip halinde tamamlanmış bir oyun geliştirdim
+- Çoklu AI sağlayıcı destekli masaüstü uygulama geliştirdim
 
 ### 🎯 Hedefler
 - İlk indie oyunumu Steam'de yayınlamak (2026)
 - Mobil uygulama geliştirme (React Native) öğrenmek  
 - AWS/Azure sertifikası almak  
-- Unreal'da FPS oyun bir oyun yapmak
+- Unreal'da FPS bir oyun yapmak
 
 ---
 
@@ -162,9 +181,6 @@ const burak = {
 📍 **Konum:** İstanbul, Türkiye
 
 </div>
-
----
-
 
 ---
 
