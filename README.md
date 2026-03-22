@@ -16,10 +16,10 @@
 
 🎮 **Oyun geliştirme** ve **web geliştirme** tutkunu bir yazılım geliştirici  
 💻 **Full-stack** teknolojilerle modern ve ölçeklenebilir uygulamalar geliştiriyorum  
-🕹️ **Unity** ve **Unreal Engine** ile oyun projelerinde çalışıyorum  
-📍 İstanbul, Türkiye  
-🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Unreal Engine 5** , **Python** öğreniyorum  
-🎯 2026 Hedefim: İlk indie oyunumu yayınlamak
+🕹️ **Unity** ile oyun projeleri geliştiriyorum, **Unreal Engine 5** öğrenme sürecindeyim  
+📍 Eskişehir, Türkiye  
+🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Unreal Engine 5**, **Python** öğreniyorum  
+🎯 2026 Hedefim: Bir sonraki oyun projemi itch.io'da yayınlamak
 
 ---
 
@@ -28,6 +28,7 @@
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -57,45 +58,47 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
 ---
 
 ## 🎯 Öne Çıkan Projeler
 
 ### 🍝 [Ristorante Stellato](https://github.com/BurakErdemci/ristorante-stellato)
 **Modern Full-Stack Rezervasyon Sistemi**  
-`Next.js 16` `React` `MongoDB` `Tailwind CSS` `Vercel`
+`Next.js 16` `TypeScript` `React` `MongoDB` `NextAuth v5` `Tailwind CSS` `Vercel`
 
 - 🎨 İnteraktif masa seçimi ve krokileme sistemi
-- 📧 Otomatik email notification (Nodemailer)
-- 📊 Admin dashboard ile gelişmiş yönetim
+- 🔐 NextAuth v5 ile güvenli admin paneli ve gizli URL routing
+- 🌍 Türkçe / İngilizce / İtalyanca tam dil desteği (i18n)
+- 🧪 Vitest ile 53 unit test (validasyon, masa seçimi, rate limiting)
+- 📱 PWA desteği — offline cache, ana ekrana ekleme
 - 🚀 Production'da canlı: [Demo](https://ristorante-stellato-puum.vercel.app)
 
 ---
 
+### 🏗️ [Unity Architect AI](https://github.com/BurakErdemci/Unity-Architect-AI)
+**Yapay Zeka Destekli Unity C# Kod Analiz Platformu** *(Aktif Geliştirme)*  
+`Python` `FastAPI` `Electron` `Next.js 14` `React` `SQLite` `Claude API`
+
+- 🤖 **Multi-Agent Pipeline** — Orchestrator, Expert, Critic, Game Feel ajanları paralel çalışır
+- 🎮 **Oyun Hissiyatı (Game Feel) Analizi** — Kodun oynanış kalitesini puanlar
+- 📊 **Ağırlıklı puanlama sistemi** — Teknik %60 + Game Feel %40, skor < 8.0 ise otomatik yeniden yazar
+- 🧠 **Anthropic Claude API** entegrasyonu ile enterprise-level kod üretimi
+- 🖥️ **Cursor IDE tarzı arayüz** — Dosya Gezgini | Kod Editörü | AI Chat
+- 🔌 6 AI sağlayıcı: Claude, Groq, Gemini, OpenAI, DeepSeek, Ollama
+
+---
+
 ### 🎮 [Workday Loop](https://github.com/BurakErdemci/Workday-Loop)
-**2D Psikolojik Gerilim Oyunu**  
+**2D Psikolojik Gerilim Oyunu** — *itch.io'da yayında*  
 `Unity 6` `C#` `ShaderLab` `DOTween`
 
 > *"Bu bir problem mi, yoksa sen buna alıştın mı?"*
 
-- 🟣 Anonim "sıradan" karakter ile ofis döngüsü deneyimi
+- 🟣 Modern iş hayatının tekdüzeliğini anlatan psikolojik gerilim deneyimi
 - 🤖 **Directive Sistemi** — Sabotaj mı? Dürüstlük mü? Seçim senin
 - 🔀 **İki farklı final** — Salvation Ending & Loop Ending
 - 🧠 Gaslighting, layout swapping ve sensory deprivation mekanikleri
 - 🎬 Mad Men + Nier: Automata + The Stanley Parable esinli atmosfer
-
----
-
-### 🏗️ [Unity Architect AI](https://github.com/BurakErdemci/Unity-Architect-AI)
-**Yapay Zeka Destekli Unity C# Kod Analiz Platformu**  
-`Python` `FastAPI` `Electron` `Next.js 14` `React` `SQLite`
-
-- 🔍 **3 aşamalı analiz pipeline** — Statik analiz → Derin AI analizi → Otomatik kod düzeltme
-- 📊 **Ağırlıklı puanlama sistemi** — Performans, Fizik, Mimari, Best Practice
-- 🤖 **5 farklı AI sağlayıcı** — Groq, Ollama, Gemini, OpenAI, DeepSeek
-- 🖥️ **Cursor IDE tarzı arayüz** — Dosya Gezgini | Kod Editörü | AI Chat
-- 💾 Workspace yönetimi, sohbet geçmişi ve kullanıcı sistemi
 
 ---
 
@@ -135,19 +138,19 @@
 ```javascript
 const burak = {
     currentFocus: [
-        "Next.js 16 Server Actions", 
-        "ASP.NET Core Web API", 
-        "Unity Game Development",
-        "Unreal Engine Blueprints"
+        "Unity Architect AI — Multi-Agent Pipeline geliştirme",
+        "Next.js 16 Server Actions",
+        "ASP.NET Core Web API",
+        "Unreal Engine 5 — Blueprint & C++ öğrenme"
     ],
-    learning: ["Docker", "Kubernetes", "Game AI", "Multiplayer Systems", "Redis"],
-    askMeAbout: ["Web Development", "Game Development", "AI Tools", "Unity/Unreal"],
+    learning: ["Unreal Engine 5", "Game AI", "Multiplayer Systems", "Docker"],
+    askMeAbout: ["Web Development", "Game Development", "AI Tools", "Unity"],
     technologies: {
-        frontEnd: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
-        backEnd: ["ASP.NET Core", "Node.js", "Python"],
-        gameEngines: ["Unity", "Unreal Engine"],
+        frontEnd: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+        backEnd: ["ASP.NET Core", "Node.js", "Python", "FastAPI"],
+        gameEngines: ["Unity", "Unreal Engine 5"],
         databases: ["MongoDB", "SQL Server", "SQLite"],
-        tools: ["Git", "VS Code", "Visual Studio", "Blender", "Vercel", "GitHub Actions"]
+        tools: ["Git", "VS Code", "Visual Studio", "Vercel", "Claude API"]
     },
 };
 ```
@@ -157,17 +160,16 @@ const burak = {
 ## 🏆 Başarılarım & Hedeflerim
 
 ### ✅ Tamamlananlar
-- Production-ready full-stack projeler geliştirdim  
-- Modern backend mimarilerini (Repository Pattern, UoW) uyguladım  
-- Cloud deployment (Vercel) deneyimi kazandım  
-- Unity ile ekip halinde tamamlanmış bir oyun geliştirdim
-- Çoklu AI sağlayıcı destekli masaüstü uygulama geliştirdim
+- Production-ready full-stack projeler geliştirdim (TypeScript, NextAuth, i18n, PWA, test coverage)
+- Modern backend mimarilerini (Repository Pattern, UoW) uyguladım
+- Claude API ile multi-agent pipeline sistemi kurdum
+- Unity ile ekip halinde tamamlanmış bir oyun geliştirdim ve itch.io'da yayınladım
 
 ### 🎯 Hedefler
-- İlk indie oyunumu Steam'de yayınlamak (2026)
-- Mobil uygulama geliştirme (React Native) öğrenmek  
-- AWS/Azure sertifikası almak  
-- Unreal'da FPS bir oyun yapmak
+- Unity Architect AI'ı tamamlamak
+- Unreal Engine 5 ile ilk FPS oyunumu yapmak
+- Mobil uygulama geliştirme (React Native) öğrenmek
+- AWS/Azure sertifikası almak
 
 ---
 
@@ -178,7 +180,7 @@ const burak = {
 💌 **Email:** erdemciburakemre@gmail.com  
 💼 **LinkedIn:** [Burak Erdemci](https://www.linkedin.com/in/burak-erdemci-a3994833b/)  
 🌐 **GitHub:** [BurakErdemci](https://github.com/BurakErdemci)  
-📍 **Konum:** İstanbul, Türkiye
+📍 **Konum:** Eskişehir, Türkiye
 
 </div>
 
