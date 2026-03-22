@@ -19,7 +19,7 @@
 🕹️ **Unity** ile oyun projeleri geliştiriyorum, **Unreal Engine 5** öğrenme sürecindeyim  
 📍 Eskişehir, Türkiye  
 🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Unreal Engine 5**, **Python** öğreniyorum  
-🎯 2026 Hedefim: Bir sonraki oyun projemi itch.io'da yayınlamak
+🎯 2026 Hedefim: Bir sonraki oyun projemi Steam'de yayınlamak
 
 ---
 
