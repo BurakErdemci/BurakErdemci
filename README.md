@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Burak Erdemci!
+# 👋 Hi, I'm Burak Erdemci!
 
 <div align="center">
   
@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-🎮 **Oyun geliştirme** ve **web geliştirme** tutkunu bir yazılım geliştirici  
-💻 **Full-stack** teknolojilerle modern ve ölçeklenebilir uygulamalar geliştiriyorum  
-🕹️ **Unity** ile oyun projeleri geliştiriyorum, **Unreal Engine 5** öğrenme sürecindeyim  
-📍 Eskişehir, Türkiye  
-🌱 Şu anda: **Next.js 16**, **ASP.NET Core**, **Unity**, **Unreal Engine 5**, **Python** öğreniyorum  
-🎯 2026 Hedefim: Bir sonraki oyun projemi Steam'de yayınlamak
+🎮 A software developer passionate about **game development** and **web development**  
+💻 Building modern and scalable applications with **full-stack** technologies  
+🕹️ Developing game projects with **Unity**, currently learning **Unreal Engine 5**  
+📍 Eskişehir, Turkey  
+🌱 Currently learning: **Next.js 16**, **ASP.NET Core**, **Unity**, **Unreal Engine 5**, **Python**  
+🎯 2026 Goal: Publish my next game project on Steam
 
 ---
 
-## 🛠️ Teknoloji Stack'im
+## 🛠️ My Tech Stack
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -60,60 +60,60 @@
 
 ---
 
-## 🎯 Öne Çıkan Projeler
+## 🎯 Featured Projects
 
 ### 🍝 [Ristorante Stellato](https://github.com/BurakErdemci/ristorante-stellato)
-**Modern Full-Stack Rezervasyon Sistemi**  
+**Modern Full-Stack Reservation System**  
 `Next.js 16` `TypeScript` `React` `MongoDB` `NextAuth v5` `Tailwind CSS` `Vercel`
 
-- 🎨 İnteraktif masa seçimi ve krokileme sistemi
-- 🔐 NextAuth v5 ile güvenli admin paneli ve gizli URL routing
-- 🌍 Türkçe / İngilizce / İtalyanca tam dil desteği (i18n)
-- 🧪 Vitest ile 53 unit test (validasyon, masa seçimi, rate limiting)
-- 📱 PWA desteği — offline cache, ana ekrana ekleme
-- 🚀 Production'da canlı: [Demo](https://ristorante-stellato-puum.vercel.app)
+- 🎨 Interactive table selection and floor plan system
+- 🔐 Secure admin panel and hidden URL routing with NextAuth v5
+- 🌍 Full Turkish / English / Italian language support (i18n)
+- 🧪 53 unit tests with Vitest (validation, table selection, rate limiting)
+- 📱 PWA support — offline cache, add to home screen
+- 🚀 Live in production: [Demo](https://ristorante-stellato-puum.vercel.app)
 
 ---
 
 ### 🏗️ [Unity Architect AI](https://github.com/BurakErdemci/Unity-Architect-AI)
-**Yapay Zeka Destekli Unity C# Kod Analiz Platformu** *(Aktif Geliştirme)*  
+**AI-Powered Unity C# Code Analysis Platform** *(Active Development)*  
 `Python` `FastAPI` `Electron` `Next.js 14` `React` `SQLite` `Claude API`
 
-- 🤖 **Multi-Agent Pipeline** — Orchestrator, Expert, Critic, Game Feel ajanları paralel çalışır
-- 🎮 **Oyun Hissiyatı (Game Feel) Analizi** — Kodun oynanış kalitesini puanlar
-- 📊 **Ağırlıklı puanlama sistemi** — Teknik %60 + Game Feel %40, skor < 8.0 ise otomatik yeniden yazar
-- 🧠 **Anthropic Claude API** entegrasyonu ile enterprise-level kod üretimi
-- 🖥️ **Cursor IDE tarzı arayüz** — Dosya Gezgini | Kod Editörü | AI Chat
-- 🔌 6 AI sağlayıcı: Claude, Groq, Gemini, OpenAI, DeepSeek, Ollama
+- 🤖 **Multi-Agent Pipeline** — Orchestrator, Expert, Critic, and Game Feel agents run in parallel
+- 🎮 **Game Feel Analysis** — Scores the gameplay quality of your code
+- 📊 **Weighted scoring system** — Technical 60% + Game Feel 40%, auto-rewrites if score < 8.0
+- 🧠 Enterprise-level code generation via **Anthropic Claude API** integration
+- 🖥️ **Cursor IDE-style interface** — File Explorer | Code Editor | AI Chat
+- 🔌 6 AI providers: Claude, Groq, Gemini, OpenAI, DeepSeek, Ollama
 
 ---
 
 ### 🎮 [Workday Loop](https://github.com/BurakErdemci/Workday-Loop)
-**2D Psikolojik Gerilim Oyunu** — *itch.io'da yayında*  
+**2D Psychological Thriller Game** — *Live on itch.io*  
 `Unity 6` `C#` `ShaderLab` `DOTween`
 
-> *"Bu bir problem mi, yoksa sen buna alıştın mı?"*
+> *"Is this a problem, or have you just gotten used to it?"*
 
-- 🟣 Modern iş hayatının tekdüzeliğini anlatan psikolojik gerilim deneyimi
-- 🤖 **Directive Sistemi** — Sabotaj mı? Dürüstlük mü? Seçim senin
-- 🔀 **İki farklı final** — Salvation Ending & Loop Ending
-- 🧠 Gaslighting, layout swapping ve sensory deprivation mekanikleri
-- 🎬 Mad Men + Nier: Automata + The Stanley Parable esinli atmosfer
+- 🟣 A psychological thriller experience about the monotony of modern work life
+- 🤖 **Directive System** — Sabotage or honesty? The choice is yours
+- 🔀 **Two different endings** — Salvation Ending & Loop Ending
+- 🧠 Gaslighting, layout swapping, and sensory deprivation mechanics
+- 🎬 Atmosphere inspired by Mad Men + Nier: Automata + The Stanley Parable
 
 ---
 
 ### 🎮 [OyunBlog](https://github.com/BurakErdemci/OyunBlog)
-**Katmanlı Mimari ile Oyun Forum Platformu**  
+**Game Forum Platform with Layered Architecture**  
 `ASP.NET Core` `C#` `Entity Framework` `SQLite` `Identity`
 
 - 🏗️ Clean Architecture (Repository, UoW Pattern)
-- 🔐 Rol bazlı kimlik doğrulama sistemi
-- 🔍 Forum CRUD, arama ve pagination
-- 📱 API entegrasyonu ile haber çekme
+- 🔐 Role-based authentication system
+- 🔍 Forum CRUD, search, and pagination
+- 📱 News fetching via API integration
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -133,15 +133,15 @@
 
 ---
 
-## 💼 Ne Üzerinde Çalışıyorum?
+## 💼 What Am I Working On?
 
 ```javascript
 const burak = {
     currentFocus: [
-        "Unity Architect AI — Multi-Agent Pipeline geliştirme",
+        "Unity Architect AI — Multi-Agent Pipeline development",
         "Next.js 16 Server Actions",
         "ASP.NET Core Web API",
-        "Unreal Engine 5 — Blueprint & C++ öğrenme"
+        "Unreal Engine 5 — Blueprint & C++ learning"
     ],
     learning: ["Unreal Engine 5", "Game AI", "Multiplayer Systems", "Docker"],
     askMeAbout: ["Web Development", "Game Development", "AI Tools", "Unity"],
@@ -157,36 +157,36 @@ const burak = {
 
 ---
 
-## 🏆 Başarılarım & Hedeflerim
+## 🏆 Achievements & Goals
 
-### ✅ Tamamlananlar
-- Production-ready full-stack projeler geliştirdim (TypeScript, NextAuth, i18n, PWA, test coverage)
-- Modern backend mimarilerini (Repository Pattern, UoW) uyguladım
-- Claude API ile multi-agent pipeline sistemi kurdum
-- Unity ile ekip halinde tamamlanmış bir oyun geliştirdim ve itch.io'da yayınladım
+### ✅ Completed
+- Built production-ready full-stack projects (TypeScript, NextAuth, i18n, PWA, test coverage)
+- Applied modern backend architectures (Repository Pattern, UoW)
+- Built a multi-agent pipeline system using Claude API
+- Developed a completed game with a team in Unity and published it on itch.io
 
-### 🎯 Hedefler
-- Unity Architect AI'ı tamamlamak
-- Unreal Engine 5 ile ilk FPS oyunumu yapmak
-- Mobil uygulama geliştirme (React Native) öğrenmek
-- AWS/Azure sertifikası almak
+### 🎯 Goals
+- Complete Unity Architect AI
+- Build my first FPS game with Unreal Engine 5
+- Learn mobile app development (React Native)
+- Obtain an AWS/Azure certification
 
 ---
 
-## 📫 Benimle İletişime Geçin
+## 📫 Get in Touch
 
 <div align="center">
 
 💌 **Email:** erdemciburakemre@gmail.com  
 💼 **LinkedIn:** [Burak Erdemci](https://www.linkedin.com/in/burak-erdemci-a3994833b/)  
 🌐 **GitHub:** [BurakErdemci](https://github.com/BurakErdemci)  
-📍 **Konum:** Eskişehir, Türkiye
+📍 **Location:** Eskişehir, Turkey
 
 </div>
 
 ---
 
-## 💡 Günün Programlama Sözü
+## 💡 Quote of the Day
 
 <div align="center">
   
@@ -198,10 +198,10 @@ const burak = {
 
 <div align="center">
   
-  ### ⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!
+  ### ⭐ If you like my projects, don't forget to leave a star!
   
   ![Profile Views](https://komarev.com/ghpvc/?username=BurakErdemci&color=blueviolet&style=for-the-badge)
   
-  **💖 İşbirliği ve projelere her zaman açığım!**
+  **💖 Always open to collaboration and new projects!**
   
 </div>
