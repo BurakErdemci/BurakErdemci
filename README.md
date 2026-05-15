@@ -12,7 +12,7 @@
 
 ---
 
-I left marine engineering in 2024 to go all-in on software — something I'd been building toward for years. Since then I've shipped production web apps, designed multi-agent AI pipelines, and built a personal AI assistant that watches my screen and learns from every conversation.
+In 2024 I walked away from marine engineering — not because I had a plan, but because I needed a change. I picked up Unity out of curiosity, and within months I was building games, then web apps, then AI systems. Eighteen months later I have two agentic AI projects in active development and haven't looked back.
 
 I use AI tools daily and take verification seriously — tests, reasoning, review. I work best when I own a problem end-to-end.
 
