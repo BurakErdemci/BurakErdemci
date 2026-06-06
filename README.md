@@ -63,7 +63,7 @@ Full-stack restaurant reservation system — built and deployed end-to-end in Ty
 A 2D psychological thriller about the monotony of modern work life. Built with a 3-person team, published on itch.io.
 
 - Multiple endings based on player choices; atmosphere inspired by Nier: Automata and The Stanley Parable
-- [Play on itch.io →](https://burak-erdemci.itch.io/workday-loop)
+- [Play on itch.io →](https://burakerdemci.itch.io/workdayloop)
 
 `Unity 6` `C#` `URP 2D`
 
