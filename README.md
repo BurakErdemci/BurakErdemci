@@ -32,15 +32,16 @@ A cloud-native AI assistant that sees my screen, hears my voice, and responds in
 
 ---
 
-### 🏗️ [Unity Architect AI — Agentic Code Assistant](https://github.com/BurakErdemci/Unity-Architect-AI)
-An AI-powered coding assistant built specifically for Unity developers.
+### 🏗️ [Gamachine — AI Game Dev Studio for Unity](https://github.com/BurakErdemci/gamachine)
+A desktop app that unifies every coding agent for Unity development *(formerly Unity Architect AI)*.
 
-- Agentic loop (max 15 iterations, SSE streaming) with approval gates and DiffViewer
-- Unity MCP integration — 40+ editor tools over WebSocket, AI reads and modifies project files directly
-- RAG over .cs files via FAISS; multi-provider AI (Claude, Gemini, OpenAI, Ollama) switchable per task
-- Monaco + xterm.js UI; CLI layer for Claude Code, Codex CLI, and Gemini CLI
+- Claude Code, Codex, Antigravity, Copilot, Cursor, OpenCode and Kimi CLIs + cloud APIs (Claude, Gemini, OpenAI, Ollama) in one window, switchable per message
+- One approval gate for all of them — every file write and shell command goes through the same panel
+- Embedded Unity MCP — 46 editor tools; the AI drives the live Unity Editor
+- Agentic loop (SSE streaming) with DiffViewer; Monaco + xterm.js UI with C# code intelligence
+- Free and open source (MIT + Commons Clause), with Windows and macOS builds
 
-`Python` `FastAPI` `React 18` `TypeScript` `Electron` `FAISS` `MCP` `Claude API` `Ollama`
+`Python` `FastAPI` `React 18` `TypeScript` `Electron` `MCP` `Claude API` `Ollama`
 
 > Selected for ETO Kampüsten Ticarete entrepreneurship program.
 
