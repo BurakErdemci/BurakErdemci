@@ -39,7 +39,7 @@ A desktop app that unifies every coding agent for Unity development *(formerly U
 - One approval gate for all of them — every file write and shell command goes through the same panel
 - Embedded Unity MCP — 46 editor tools; the AI drives the live Unity Editor
 - Agentic loop (SSE streaming) with DiffViewer; Monaco + xterm.js UI with C# code intelligence
-- Free and open source (MIT + Commons Clause), with Windows and macOS builds
+- Free and open source (MIT), with Windows and macOS builds
 
 `Python` `FastAPI` `React 18` `TypeScript` `Electron` `MCP` `Claude API` `Ollama`
 
