@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="Burak Erdemci — building things that think">
+<a href="https://www.burakerdemci.com"><img src="assets/banner.svg" width="100%" alt="Calling card: Burak Erdemci, game developer building tools for AI agents. Eskişehir, TR."></a>
 
 <p align="center">
   <a href="https://www.burakerdemci.com"><b>burakerdemci.com</b></a>
@@ -10,148 +10,72 @@
 
 <br>
 
-In 2024 I walked away from marine engineering — not because I had a plan, but because
-I needed a change. I picked up Unity out of curiosity, and within months I was building
-games, then web apps, then AI systems. Eighteen months later I have two agentic AI
-projects in active development and haven't looked back.
+<a href="https://www.linkedin.com/in/burak-erdemci-a3994833b/"><img src="assets/status.svg" width="100%" alt="Status: Intern, Digital Design · Eczacıbaşı VitrA (İME) · since Sep 2026. Origin file: left marine engineering, started coding late 2024, Computer Programming at ESTÜ, graduating June 2027, based in Eskişehir, TR, remote OK."></a>
 
-I use AI tools daily and take verification seriously — tests, reasoning, review. I work
-best when I own a problem end-to-end.
+<p align="center">Intern, Digital Design · Eczacıbaşı VitrA (İME) · since Sep 2026</p>
 
 <br>
 
-## Building now
+<a href="https://github.com/BurakErdemci?tab=repositories"><img src="assets/h-missions.svg" width="100%" alt="01 Missions"></a>
 
-<table>
-<tr>
-<td width="54%" valign="top">
-<img src="https://img.shields.io/badge/FLAGSHIP-E60012?style=flat-square&labelColor=E60012">
-<img src="https://img.shields.io/badge/MIT-0A0A0A?style=flat-square&labelColor=0A0A0A">
-<h2><a href="https://github.com/BurakErdemci/gamachine">Gamachine</a></h2>
-<p><b>An AI game-dev studio for Unity.</b><br>
-Every coding agent and live Unity control in one desktop app, behind one approval gate.</p>
-<ul>
-<li><b>7 CLI agents</b> plus 8+ cloud APIs and local Ollama — switchable per message</li>
-<li><b>One approval gate for all of them.</b> Every file write and shell command goes
-through the same panel</li>
-<li><b>46 Unity Editor tools</b> over MCP — the agent drives the live Editor, and can
-play the game it just built</li>
-</ul>
-<p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Electron</code>
-<code>MCP</code> <code>C#</code></p>
-<p><a href="https://github.com/BurakErdemci/gamachine/releases/latest"><b>Download →</b></a>
-&nbsp;·&nbsp; Selected for the ETO <i>Kampüsten Ticarete</i> program</p>
-</td>
-<td width="46%" valign="middle">
-<img src="https://raw.githubusercontent.com/BurakErdemci/gamachine/main/docs/media/demo.gif" width="100%" alt="Gamachine demo">
-</td>
-</tr>
-</table>
+<a href="https://github.com/BurakErdemci/gamachine"><img src="assets/mission-gamachine.svg" width="100%" alt="Mission 01, Gamachine: an AI game dev studio for Unity. One desktop app drives Claude Code, Codex, Antigravity, Copilot, Cursor, OpenCode and cloud models, with live Unity Editor control over MCP. Shipped, MIT license."></a>
 
-<table>
-<tr>
-<td width="46%" valign="middle">
-<img src="assets/art-jarvan.jpg" width="100%" alt="">
-</td>
-<td width="54%" valign="top">
-<img src="https://img.shields.io/badge/PERSONAL%20AI-E60012?style=flat-square&labelColor=E60012">
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-0A0A0A?style=flat-square&labelColor=0A0A0A">
-<h2><a href="https://github.com/BurakErdemci/JARVAN">Jarvan</a></h2>
-<p><b>A voice-and-vision assistant that remembers.</b><br>
-Sees my screen, hears my voice, answers in <b>~200 ms</b> over the Gemini Live API.</p>
-<ul>
-<li><b>Two-layer persistent memory</b> — structured JSON profile plus ChromaDB RAG</li>
-<li>An <b>InsightAgent</b> pulls durable learnings out of each conversation on its own</li>
-<li><b>12 integrated tools</b> — Spotify, Gmail, Playwright MCP, screen vision</li>
-</ul>
-<p><code>Python</code> <code>Gemini Live</code> <code>ChromaDB</code> <code>Electron</code>
-<code>MCP</code></p>
-</td>
-</tr>
-</table>
+<a href="https://github.com/BurakErdemci/gamachine"><img src="assets/gamachine-loop.webp" width="100%" alt="Gamachine v4 trailer loop: a prompt becomes a Unity scene, then a playable game"></a>
 
-<table>
-<tr>
-<td width="54%" valign="top">
-<img src="https://img.shields.io/badge/RESEARCH-E60012?style=flat-square&labelColor=E60012">
-<img src="https://img.shields.io/badge/PROTOTYPE-0A0A0A?style=flat-square&labelColor=0A0A0A">
-<h2><a href="https://github.com/BurakErdemci/Context-Police">Context Police</a></h2>
-<p><b>A background auditor for AI agent memory.</b><br>
-Agent memory is written once and trusted forever. This watches sessions, extracts
-durable findings, and flags the notes that have quietly gone stale.</p>
-<ul>
-<li>On a real 329-commit project, <b>61% of existing memory notes had rotted</b> —
-that measurement is what started the project</li>
-<li><b>Nothing is ever deleted.</b> Decay is reported, never silently corrected</li>
-</ul>
-<p><code>TypeScript</code> <code>Node</code></p>
-</td>
-<td width="46%" valign="middle">
-<img src="assets/art-context-police.jpg" width="100%" alt="">
-</td>
-</tr>
-</table>
+<p align="center"><a href="https://github.com/BurakErdemci/gamachine"><b>Gamachine</b></a> &nbsp;·&nbsp; <a href="https://github.com/BurakErdemci/gamachine/releases/latest">latest release (v3.2.0)</a> &nbsp;·&nbsp; v4 in development &nbsp;·&nbsp; MIT</p>
 
 <br>
 
-## Shipped
+<a href="https://burakerdemci.github.io/kagit-kart/"><img src="assets/mission-kagit-kart.svg" width="100%" alt="Mission 02, Kâğıt Kart: a kart racer inside a pop-up book. Zero asset files: every mesh, paper texture, letter and sound is generated by code with three.js. Started as an experiment and became my most-starred repo. Playable in the browser."></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/shot-ristorante.jpg" width="100%" alt="Ristorante Stellato">
-<br><br>
-<img src="https://img.shields.io/badge/FULL%20STACK-E60012?style=flat-square&labelColor=E60012">
-<img src="https://img.shields.io/badge/IN%20PRODUCTION-0A0A0A?style=flat-square&labelColor=0A0A0A">
-<h3><a href="https://github.com/BurakErdemci/ristorante-stellato">Ristorante Stellato</a></h3>
-<p>A restaurant reservation system, designed and shipped end to end — not a tutorial
-build.</p>
-<ul>
-<li>REST API, NextAuth v5, MongoDB, and an admin dashboard with filtering and pagination</li>
-<li><b>53 Vitest unit and integration tests</b>, PWA offline support, TR/EN i18n,
-IP-based rate limiting</li>
-</ul>
-<p><code>Next.js 16</code> <code>TypeScript</code> <code>MongoDB</code>
-<code>NextAuth v5</code> <code>Vitest</code></p>
-<p><a href="https://ristorante-stellato-puum.vercel.app"><b>Live demo →</b></a></p>
-</td>
-<td width="50%" valign="top">
-<img src="assets/shot-workday.jpg" width="100%" alt="Workday Loop">
-<br><br>
-<img src="https://img.shields.io/badge/GAME-E60012?style=flat-square&labelColor=E60012">
-<img src="https://img.shields.io/badge/RELEASED-0A0A0A?style=flat-square&labelColor=0A0A0A">
-<h3><a href="https://github.com/BurakErdemci/Workday-Loop">Workday Loop</a></h3>
-<p>A 2D psychological thriller about the monotony of modern work. Built with a team
-of three and published on itch.io.</p>
-<ul>
-<li>Multiple endings driven by what the player chooses, not how well they play</li>
-<li>Atmosphere owed to Nier: Automata and The Stanley Parable</li>
-</ul>
-<p><code>Unity 6</code> <code>C#</code> <code>URP 2D</code></p>
-<p><a href="https://burakerdemci.itch.io/workdayloop"><b>Play it →</b></a></p>
-</td>
-</tr>
-</table>
+<p align="center"><a href="https://burakerdemci.github.io/kagit-kart/"><b>Play Kâğıt Kart in the browser</b></a> &nbsp;·&nbsp; <a href="https://github.com/BurakErdemci/kagit-kart">source</a> &nbsp;·&nbsp; three.js, zero asset files</p>
 
 <br>
 
-## Stack
+<a href="https://github.com/BurakErdemci/codex-delegate"><img src="assets/mission-codex-delegate.svg" width="100%" alt="Mission 03, codex-delegate: a Claude Code plugin. Codex runs the worker lanes while Claude stays architect and reviewer. Open source, MIT license."></a>
 
-<p>
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=E60012">
-<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E60012">
-<img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=c-sharp&logoColor=E60012">
-<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E60012">
-<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=E60012">
-<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=E60012">
-<img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=E60012">
-<img src="https://img.shields.io/badge/Unity-0A0A0A?style=for-the-badge&logo=unity&logoColor=E60012">
-<img src="https://img.shields.io/badge/Electron-0A0A0A?style=for-the-badge&logo=electron&logoColor=E60012">
-<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=E60012">
+<p align="center"><a href="https://github.com/BurakErdemci/codex-delegate"><b>codex-delegate</b></a> &nbsp;·&nbsp; Claude Code plugin &nbsp;·&nbsp; MIT</p>
+
+<br>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3ABurakErdemci+is%3Amerged"><img src="assets/h-confidants.svg" width="100%" alt="02 Confidants: open-source pull requests, merged"></a>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3ABurakErdemci+is%3Amerged"><img src="assets/confidants.svg" width="100%" alt="Confidants, ranked by merged pull requests: CoplayDev/unity-mcp rank 2 (#1337 resolve the Animator on child objects, #1338 add manage_sprite for 2D sprite sheets), nrwl/nx rank 1 (#37074 resolve coverageDirectory like jest), badges/shields rank 1 (#12177 apply the query allow-list to static badges)."></a>
+
+<p align="center"><a href="https://github.com/CoplayDev/unity-mcp/pull/1337">unity-mcp #1337</a> &nbsp;·&nbsp; <a href="https://github.com/CoplayDev/unity-mcp/pull/1338">unity-mcp #1338</a> &nbsp;·&nbsp; <a href="https://github.com/nrwl/nx/pull/37074">nx #37074</a> &nbsp;·&nbsp; <a href="https://github.com/badges/shields/pull/12177">shields #12177</a></p>
+
+<br>
+
+<a href="https://github.com/BurakErdemci?tab=repositories"><img src="assets/h-arsenal.svg" width="100%" alt="03 Arsenal: what I build with"></a>
+
+<a href="https://github.com/BurakErdemci?tab=repositories"><img src="assets/skills.svg" width="100%" alt="Skill card of The Navigator. Game: Unity and C#, three.js. Agents: MCP and agent tooling. Backend: Python and FastAPI. Web: TypeScript, React, Next.js. Desktop: Electron. Data and ops: MongoDB, Docker. Weak: Flutter, we parted ways, no hard feelings."></a>
+
+<p align="center">Unity · C# · three.js · MCP · Python · FastAPI · TypeScript · React · Next.js · Electron · MongoDB · Docker</p>
+
+<br>
+
+<a href="https://github.com/BurakErdemci?tab=repositories"><img src="assets/h-side-quests.svg" width="100%" alt="04 Side quests: earlier work"></a>
+
+<a href="https://ristorante-stellato-puum.vercel.app"><img src="assets/side-ristorante.svg" width="100%" alt="Side quest 01, Ristorante Stellato: a Next.js reservation system with a REST API, auth and an admin dashboard, 53 tests, live demo."></a>
+
+<p align="center"><a href="https://ristorante-stellato-puum.vercel.app"><b>Ristorante Stellato live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/BurakErdemci/ristorante-stellato">source</a></p>
+
+<br>
+
+<a href="https://burakerdemci.itch.io/workdayloop"><img src="assets/side-workday.svg" width="100%" alt="Side quest 02, Workday Loop: a Unity 2D narrative game, a team project published on itch.io. My part: level design, narrative design and development."></a>
+
+<p align="center"><a href="https://burakerdemci.itch.io/workdayloop"><b>Play Workday Loop on itch.io</b></a> &nbsp;·&nbsp; <a href="https://github.com/BurakErdemci/Workday-Loop">source</a></p>
+
+<br>
+
+<a href="mailto:erdemciburakemre@gmail.com"><img src="assets/footer.svg" width="100%" alt="Send a calling card: burakerdemci.com, LinkedIn, erdemciburakemre@gmail.com. Eskişehir, TR, open to remote work."></a>
+
+<p align="center">
+  <a href="https://www.burakerdemci.com"><b>burakerdemci.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/burak-erdemci-a3994833b/"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:erdemciburakemre@gmail.com"><b>erdemciburakemre@gmail.com</b></a>
+  <br>
+  <sub>Eskişehir, TR &nbsp;·&nbsp; open to remote work</sub>
 </p>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakErdemci&bg_color=00000000&color=8b949e&line=E60012&point=E60012&area_color=E60012&area=true&hide_border=true&grid=false&height=260&days=60&custom_title=Last%2060%20days" width="100%" alt="Contribution activity">
-
-<p align="center"><sub>Eskişehir, Turkey &nbsp;·&nbsp; open to remote work</sub></p>
