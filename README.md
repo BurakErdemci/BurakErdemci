@@ -78,6 +78,8 @@
 
 <a href="https://ristorante-stellato-puum.vercel.app"><img src="assets/side-ristorante.svg" width="100%" alt="Side quest 01, Ristorante Stellato: a Next.js reservation system with a REST API, auth and an admin dashboard, 53 tests, live demo."></a>
 
+<a href="https://ristorante-stellato-puum.vercel.app"><img src="assets/ristorante-loop.webp" width="100%" alt="Ristorante Stellato live demo loop: the home page, the menu and the wine cellar, then picking a date and time for a reservation beside the live table map"></a>
+
 <p align="center"><a href="https://ristorante-stellato-puum.vercel.app"><b>Ristorante Stellato live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/BurakErdemci/ristorante-stellato">source</a></p>
 
 <br>
